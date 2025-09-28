@@ -27,4 +27,32 @@ Lo separaremos entre mundo y España.
 30 resultados
 ![pythonw](assets/vbnetworld.png)
 ---
+# España
+1. **Python**
+3.167 resultados
+![pythonw](assets/python.png)
+2. **JavaScript**
+  3.100 resultados
+![jw](assets/javascript.png)
+3. **Java**
+   3.000 resultados
+![jsw](assets/javaspain.png)
+4. **C++**
+    1258 resultados
+![c++w](assets/c++.png)
+5. **C#**
+    379 resultados
+![cw](assets/c#.png)
+6. **PHP**
+267 resultados
+![phpw](assets/php.png)
+7. **Ruby**
+13 resultados
+![pythonw](assets/ruby.png)
+8. **VBNet**
+   0 resultados
+![pythonw](assets/vbnet.png)
+---
+***En mundo y España los resultados son casi en todos los casos proporcionales, en españa Javascript es más solicitado que Java pero no por mucho, Python es el más solicitado***
+
 
