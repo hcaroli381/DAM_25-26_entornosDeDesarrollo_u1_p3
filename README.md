@@ -53,6 +53,7 @@ Lo separaremos entre mundo y España.
    0 resultados
 ![pythonw](assets/vbnet.png)
 ---
-***En mundo y España los resultados son casi en todos los casos proporcionales, en españa Javascript es más solicitado que Java pero no por mucho, Python es el más solicitado***
+***En mundo y España los resultados son casi en todos los casos proporcionales, en españa Javascript es más solicitado que Java pero no por mucho, Python es el más solicitado.
+Casi que podria decirse que Ruby y VBNet están obsoletos***
 
 
